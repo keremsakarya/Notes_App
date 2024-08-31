@@ -1,4 +1,4 @@
-# Notes_App
+# Notes App 🗒️
 
 This project allows users to create and store notes. The created notes can be filtered by title and tags. Users can edit and save the notes or delete them if they wish.
 
